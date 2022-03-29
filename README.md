@@ -21,4 +21,4 @@ Main topics of interest are:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielk333&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielk333&theme=tokyonight&hide=jupiter-notebook,html,matlab&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielk333&theme=tokyonight&hide=jupiter,html,batchfile,dockerfile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
