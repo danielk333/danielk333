@@ -1,9 +1,11 @@
 ### Hello there!
 
-My name is Daniel Kastinen and I'm working with space physics research focusing on all areas of space safty at the
+My name is Daniel Kastinen and I'm working with space physics research focusing on small bodies in the solar-system, numerical simulations and all things space safety at the
 <a href="https://www.irf.se/"><img align="center" src="https://www.irf.se/branding/irf-neg.svg" alt="IRF" /></a>
 
-My main topics of interest are:
+[My personal pages](https://danielk.developer.irf.se/)
+
+Main topics of interest are:
 
 * Developing scientific software
 * Orbital dynamics and solar-system physics
@@ -14,11 +16,9 @@ My main topics of interest are:
 * Inversion problems
 * Statistical and Bayesian analysis
 
-[My personal pages](https://danielk.developer.irf.se/)
-
 
 📈 my github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielk333&show_icons=true&theme=radical" alt="danielk333" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielk333&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielk333&theme=radical" alt="danielk333" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielk333&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
