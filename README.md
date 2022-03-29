@@ -1,7 +1,7 @@
 ### Hello there!
 
 My name is Daniel Kastinen and I'm working with space physics research focusing on all areas of space safty at the
-<a href="https://www.irf.se/"><img align="center" src="https://www.irf.se/branding/irf.svg" alt="IRF" /></a>
+<a href="https://www.irf.se/"><img align="center" src="https://www.irf.se/branding/irf-neg.svg" alt="IRF" /></a>
 
 My main topics of interest are:
 
