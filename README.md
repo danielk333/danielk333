@@ -8,9 +8,9 @@ My name is Daniel Kastinen and I'm working with space physics research focusing 
 
 Main topics of interest are:
 
-* Developing scientific software
-* Orbital dynamics and solar-system physics
 * Meteors
+* Orbital dynamics and solar-system physics
+* Developing scientific software
 * NEO’s
 * Space debris
 * Radar data analysis
