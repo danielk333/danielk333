@@ -2,7 +2,7 @@
 
 <a href="https://www.irf.se/"><img align="right" width=300 src="https://www.irf.se/branding/irf-neg.svg" alt="IRF" /></a>
 
-My name is Daniel Kastinen and I'm working with space physics research focusing on small bodies in the solar-system, numerical simulations and all things space safety at the 👉
+My name is Daniel Kastinen and I'm working with space physics research focusing on meteors, radars, small bodies in the solar-system, numerical simulations and all things space safety at the 👉
 
 [My personal pages](https://danielk.developer.irf.se/)
 
