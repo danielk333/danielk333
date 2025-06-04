@@ -4,7 +4,9 @@
 
 My name is Daniel Kastinen and I'm working with space physics research focusing on meteors, radars, small bodies in the solar-system, numerical simulations and all things space safety at the 👉
 
-[My personal pages](https://danielk.developer.irf.se/)
+[My professional pages](https://danielk.developer.irf.se/)
+
+[My blog](https://hackrnspace.se/~danielk/)
 
 Main topics of interest are:
 
@@ -17,6 +19,7 @@ Main topics of interest are:
 * Inversion problems
 * Statistical and Bayesian analysis
 
+If you like my open source stuff and want to help keep it fueled, you can [buy me a coffee](https://buymeacoffee.com/danielk333) online since it might be far to come to Sweden and do it in person :P
 
 ## GitHub stats
 
