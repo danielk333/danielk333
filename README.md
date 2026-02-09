@@ -6,7 +6,7 @@ My name is Daniel Kastinen and I'm working with space physics research focusing 
 
 [My professional pages](https://danielk.developer.irf.se/)
 
-[My blog](https://hackrnspace.se/~danielk/)
+[My blog](https://my.hackrnspace.se/danielk/)
 
 Main topics of interest are:
 
@@ -18,8 +18,6 @@ Main topics of interest are:
 * Radar data analysis
 * Inversion problems
 * Statistical and Bayesian analysis
-
-If you like my open source stuff and want to help keep it fueled, you can [buy me a coffee](https://buymeacoffee.com/danielk333) online since it might be far to come to Sweden and do it in person :P
 
 ## GitHub stats
 
